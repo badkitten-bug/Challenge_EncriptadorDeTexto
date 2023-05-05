@@ -46,14 +46,13 @@ Son las siguientes:
 
 En la página también tienes acceso a mis 2 redes (Github y Linkedin):
 
-![Screen Shot 2023-04-14 at 22 04 03](https://user-images.githubusercontent.com/81193583/232181997-ae9a79ac-ce50-4f7a-aa37-262c8e53dd76.png)
 
 ---
  ## **Código QR y enlace del repo 🌐**
  
  Si quieres compartir la página web te dejo el código QR o puedes copiar el enlace de este repo:
  
-![QR_Encriptador](https://user-images.githubusercontent.com/81193583/232194239-73cf2305-a69c-4b3d-8b82-fe631e0d8a6b.png)
+
 
 ---
 
