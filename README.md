@@ -54,7 +54,7 @@ https://badkitten-bug.github.io/Challenge_EncriptadorDeTexto/
  
  https://badkitten-bug.github.io/Challenge_EncriptadorDeTexto/
  
-<a href='https://me-qr.com' border='0' style='cursor:pointer;display:block'><img src='https://cdn.me-qr.com/qr/58858688.png?v=1683248193' alt='Create qr code for free'></a><a href='https://me-qr.com' border='0' style='cursor:default;display:none'>Create qr code for free</a>
+<a href='https://me-qr.com' border='0' style='cursor:pointer;display:block'><img src='https://cdn.me-qr.com/qr/58858688.png?v=1683248193' alt='Create qr code for free'>
 
 ---
 
