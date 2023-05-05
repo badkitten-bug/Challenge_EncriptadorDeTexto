@@ -32,13 +32,6 @@ Son las siguientes:
  Por lo que, a la hora de ingresar el texto, las vocales son las únicas letras que se van a encriptar mientras que las consonantes aparecerán de la misma manera.
  
 
- <h2>Aquí te dejo una pequeña demo de mi página:</h2>
- 
-
-https://user-images.githubusercontent.com/81193583/232181220-b4690f4c-08cb-4fa2-94b9-8f00ebd06215.mov
-
-
-
 ## **Uso de Botones 🕹**
 
    Usa `encriptar` para el texto ingresado.
