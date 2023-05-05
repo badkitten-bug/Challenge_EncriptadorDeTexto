@@ -45,13 +45,14 @@ Son las siguientes:
  ## **Redes Sociales 🌐**
 
 En la página también tienes acceso a mis 2 redes (Github y Linkedin):
-
+https://badkitten-bug.github.io/Challenge_EncriptadorDeTexto/
 
 ---
  ## **Código QR y enlace del repo 🌐**
  
- Si quieres compartir la página web te dejo el código QR o puedes copiar el enlace de este repo:
+ Si quieres compartir la página web te dejo el enlace de este repo:
  
+ https://badkitten-bug.github.io/Challenge_EncriptadorDeTexto/
 
 
 ---
