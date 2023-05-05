@@ -53,6 +53,7 @@ https://badkitten-bug.github.io/Challenge_EncriptadorDeTexto/
  Si quieres compartir la página web te dejo el enlace de este repo:
  
  https://badkitten-bug.github.io/Challenge_EncriptadorDeTexto/
+ [![Encriptador.png](https://i.postimg.cc/hhF1qZL3/Encriptador.png)](https://postimg.cc/CnNqGN6j)
 
 
 ---
